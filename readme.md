@@ -14,7 +14,7 @@ Asegúrate de tener instalado en tu sistema:
 1. Clona este repositorio:
 
    ```bash
-   git clone https://github.com/tuusuario/tu-aplicacion.git
+   git clone https://github.com/luismavlo/esqueleto_node_express.git
 
 2. Ejecutar el siguiente comando:
     ```bash
